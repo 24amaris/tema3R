@@ -20,3 +20,14 @@
     font-weight: 400;
     margin: 0px 500px 10px 500px;
 }
+.procentul {
+    background-color: rgba(200, 187, 187, 0.448);
+    padding: 20px;
+    width: 400px;
+    color: rgb(236, 19, 19);
+    margin-left: 310px;
+    border-radius: 13px;
+    margin-bottom: 100px;
+    margin: 0px 500px 0px 500px;
+    font-family: "Kanit", sans-serif;
+}
