@@ -1,0 +1,9 @@
+.bi-briefcase{
+    color:#f95697;
+    font-size: 40px;
+    padding:30px;
+    margin: 100px 500px 0px 500px;
+    background-color: rgba(222, 170, 204, 0.64);
+    background-size: 100px;
+    border-radius: 25px;
+}
